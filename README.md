@@ -1,6 +1,8 @@
 TZ #1 (react-hooks & TypeScript)
 ===
 
+<!-- https://habr.com/ru/post/443424/ -->
+<!-- 
 Стартовый репозиторий для прохождения [туториала](https://habr.com/ru/post/443424/).
 
 Больше туториалов - [maxpfrontend.ru](https://maxpfrontend.ru/)
@@ -13,4 +15,4 @@ TZ #1 (react-hooks & TypeScript)
 + [Telegram](https://t.me/maxpfrontend)
 + [YouTube](https://www.youtube.com/channel/UCqJyAVWwIqPWKEkfCSP1y4Q)
 + [Twitch](https://www.twitch.tv/maxpfrontend)
-+ [Twitter](https://twitter.com/MaxPatsiansky)
++ [Twitter](https://twitter.com/MaxPatsiansky) -->
